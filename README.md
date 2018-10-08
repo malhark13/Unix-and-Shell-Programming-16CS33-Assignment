@@ -12,6 +12,9 @@ Znew recompresses files from .Z (compress) format to .gz (gzip) format. If you w
 <u>Examples:</u>
 <ol>
 <li>
-znew
+znew -f
+</li>
+<li>
+znew -t  
 </li>
 </ol>
